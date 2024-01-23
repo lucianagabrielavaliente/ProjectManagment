@@ -1,5 +1,23 @@
-# Challenge
+# Frontend challenge
+The frontend of a platform that aims to perform project management has to be done. 
 
+## Design
+https://www.figma.com/file/YLDHikbDgfsZbVdEbO0H6U/Full-Stack-Test-1?node-id=1%3A1701
+
+## Functional definition
+The user accesses a project manager to manage projects, create, edit and delete them.
+- The user cannot submite the creation or edition of a project if the fields are not validated.
+- The user must be able to use the manager on Desktop and Mobile.
+
+## Technical definitions
+- Angular
+- Bootstrap
+- Netlify
+  
+## Deployed at
+https://comfy-starlight-e01244.netlify.app/
+
+## About
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
 ## Development server
